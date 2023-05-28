@@ -11,8 +11,8 @@ O projeto de uma loja de roupas.
 * Ícones👉boxicons.
 
 # Resultado final
-https://ik.imagekit.io/zc68f3m83/demo.gif?updatedAt=1685299560668
-
+https://ik.imagekit.io/zc68f3m83/1.png?updatedAt=1685300036267
+https://ik.imagekit.io/zc68f3m83/2.png?updatedAt=1685300035961
 
 ---
 feito com ❤️ por [Rebeca S](https://github.com/rebecasantana) 😊
